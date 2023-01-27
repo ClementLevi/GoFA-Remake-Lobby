@@ -1,0 +1,14 @@
+{
+  "name": "gofa-remake-lobby",
+  "version": "1.0.0",
+  "description": "Lobby for GoFA-Remake, which plays the role of WAF, authenticator, load balancer and etc.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "GoFA-Remake"
+  ],
+  "author": "Clement_Levi",
+  "license": "GPL-3.0-or-later"
+}
